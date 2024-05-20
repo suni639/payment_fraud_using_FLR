@@ -4,7 +4,7 @@ This project aims to demonstrate the implementation of a decentralized federated
 ## NOTE:
 This is the second iteration of this project, with the first iteration using a complex and computationally expensive neural network, which failed to execute. This happened for the following reasons:
 - high number of neurons and layers
-- large batch sizes that used up too much memory and computatitional load
+- large batch sizes that used up too much memory and computational load
 - high number of epochs thereby increasing training time
 - use of heavy weight frameworks (TensorFlow)
 
