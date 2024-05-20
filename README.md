@@ -1,5 +1,5 @@
-# payment_fraud_using_FL
-This project aims to demonstrate the implementation of a decentralized federated learning system, using a simple logistic regression, to detect online payments fraud. The dataset (downloaded from Kaggle) is split across 20 clients, each of which trains a local model on their data. The models are then aggregated in a decentralized manner to form a global model.
+# Using Federated Logistic Regression to Detect Fraudulent Payments
+This project aims to demonstrate the implementation of a decentralized federated learning system, using a simple logistic regression, to detect online payments fraud. The dataset (downloaded from ![Kaggle](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data)) is split across 20 clients, each of which trains a local model on their data. The models are then aggregated in a decentralized manner to form a global model.
 
 ## NOTE:
 This is the second iteration of this project, with the first iteration using a complex and computationally expensive neural network, which failed to execute. This happened for the following reasons:
